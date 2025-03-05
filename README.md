@@ -1,1 +1,1 @@
-# secrets_playground
+# secrets-playground
